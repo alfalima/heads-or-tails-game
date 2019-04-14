@@ -11,7 +11,7 @@ def randomNunber():
         randomNunber()
 
 i = 0
-while i < 900000:
+while i < α:
     randomNunber()
     print(random_list)
     benefit = 2**len(random_list)
